@@ -99,6 +99,6 @@ CONTACTO Y AUTORÍA
 Este archivo fue diseñado para facilitar la organización de competencias
 de Taekwondo con criterios técnicos objetivos y configurables.
 
-Autor: Andrés Michel + Asistente IA
+Autor: Andrés Michel 
 Fecha: Julio 2025
 
